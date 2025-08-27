@@ -29,6 +29,8 @@ NeuroNotesAI/
 ├── app.json            # Expo configuration
 ├── package.json        # Dependencies and scripts
 └── README.md           # Project documentation
+`````
+---
 
 ## 🧪 Development Roadmap
 NeuroNotes AI is under active development. Below is the planned roadmap outlining completed work and upcoming features:
