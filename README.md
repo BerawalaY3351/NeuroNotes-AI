@@ -25,6 +25,8 @@ NeuroNotesAI/
 ├── assets/             # Images, icons, fonts
 ├── components/         # Reusable UI components
 ├── screens/            # App screens (Home, Record, Notes, Settings, etc.)
+├── services/           # API keys but will be deploy hidden
+│   └── api.js
 ├── App.js              # Main entry point
 ├── app.json            # Expo configuration
 ├── package.json        # Dependencies and scripts
